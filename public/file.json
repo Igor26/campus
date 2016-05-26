@@ -1,0 +1,210 @@
+﻿{
+  "educationYear": "2016-2017",
+  "educationLevel": "бакалавр",
+  "specialties": [
+    {
+      "specialtyCode": "6.050502",
+      "specialtyName": "Системна інженерія",
+      "departments": [
+        {
+          "abbreviation": "ФІОТ",
+          "departmentName": "Кафедра технічної кібернетики ФІОТ",
+          "disciplinies": [
+            {
+              "name": "Дисципліна №2",
+              "creditAmount": 2,
+              "hoursAmount": 108,
+              "startTerm": 2,
+              "studentVoiceCount": 15,
+              "propositionList": [
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                }
+              ]
+            },
+            {
+              "name": "Дисципліна №3",
+              "creditAmount": 2,
+              "hoursAmount": 108,
+              "startTerm": 2,
+              "studentVoiceCount": 15,
+              "propositionList": [
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "abbreviation": "ФПМ",
+          "departmentName": "Каф",
+          "disciplinies": [
+            {
+              "name": "Дисципліна №2",
+              "creditAmount": 2,
+              "hoursAmount": 108,
+              "startTerm": 2,
+              "studentVoiceCount": 15,
+              "propositionList": [
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                }
+              ]
+            },
+            {
+              "name": "Дисципліна №3",
+              "creditAmount": 2,
+              "hoursAmount": 108,
+              "startTerm": 2,
+              "studentVoiceCount": 15,
+              "propositionList": [
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "specialtyCode": "6.050502",
+      "specialtyName": "Системна інженерія",
+      "departments": [
+        {
+          "abbreviation": "ФІОТ",
+          "departmentName": "Кафедра технічної кібернетики ФІОТ",
+          "disciplinies": [
+            {
+              "name": "Дисципліна №2",
+              "creditAmount": 27,
+              "hoursAmount": 108,
+              "startTerm": 2,
+              "studentVoiceCount": 15,
+              "propositionList": [
+                {
+                  "disciplineName": "2Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "3Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "4Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                }
+              ]
+            },
+            {
+              "name": "Дисципліна №3",
+              "creditAmount": 52,
+              "hoursAmount": 108,
+              "startTerm": 2,
+              "studentVoiceCount": 15,
+              "propositionList": [
+                {
+                  "disciplineName": "5Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "1Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "765Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "abbreviation": "ФПМ",
+          "departmentName": "Каф",
+          "disciplinies": [
+            {
+              "name": "Дисципліна №2",
+              "creditAmount": 42,
+              "hoursAmount": 108,
+              "startTerm": 2,
+              "studentVoiceCount": 15,
+              "propositionList": [
+                {
+                  "disciplineName": "Лasdsaогіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "asd",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "sad",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                }
+              ]
+            },
+            {
+              "name": "Дисципліна №3",
+              "creditAmount": 24,
+              "hoursAmount": 108,
+              "startTerm": 2,
+              "studentVoiceCount": 15,
+              "propositionList": [
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                },
+                {
+                  "disciplineName": "Логіка",
+                  "teachingDepartment": "Кафедра філософії ФСП"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
